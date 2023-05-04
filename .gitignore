@@ -23,6 +23,9 @@ venv/
 # Ignore local configuration files
 .local
 
+# Ignore Test Files and directories
+test/
+
 # Ignore the '__pycache__' directories created by Python
 __pycache__/
 
